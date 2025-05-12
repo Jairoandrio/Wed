@@ -1,0 +1,48 @@
+Uri: https://www.cc-gen.us/
+File Name: C:\Users\access\Videos\agustin\www.cc-gen.us\index.html
+Content Type: text/html
+
+Uri: https://www.cc-gen.us/img/favicon.ico
+File Name: C:\Users\access\Videos\agustin\www.cc-gen.us\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.cc-gen.us/css/style.css
+File Name: C:\Users\access\Videos\agustin\www.cc-gen.us\css\style.css
+Content Type: text/css
+
+Uri: https://www.cc-gen.us/css/material.min.css
+File Name: C:\Users\access\Videos\agustin\www.cc-gen.us\css\material.min.css
+Content Type: text/css
+
+Uri: https://www.cc-gen.us/js/jquery-1.11.2.min.js
+File Name: C:\Users\access\Videos\agustin\www.cc-gen.us\js\jquery-1.11.2.min.js
+Content Type: application/javascript
+
+Uri: https://www.cc-gen.us/js/namsoEngines.js
+File Name: C:\Users\access\Videos\agustin\www.cc-gen.us\js\namsoEngines.js
+Content Type: application/javascript
+
+Uri: https://www.cc-gen.us/js/material.min.js
+File Name: C:\Users\access\Videos\agustin\www.cc-gen.us\js\material.min.js
+Content Type: application/javascript
+
+Uri: https://www.cc-gen.us/img/favico.png
+File Name: C:\Users\access\Videos\agustin\www.cc-gen.us\img\favico.png
+Content Type: image/png
+
+Uri: https://www.cc-gen.us/img/1.jpg
+File Name: C:\Users\access\Videos\agustin\www.cc-gen.us\img\1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cc-gen.us/img/header.png
+File Name: C:\Users\access\Videos\agustin\www.cc-gen.us\img\header.png
+Content Type: image/png
+
+Uri: https://www.cc-gen.us/img/close_white.png
+File Name: C:\Users\access\Videos\agustin\www.cc-gen.us\img\close_white.png
+Content Type: image/png
+
+Uri: https://www.cc-gen.us/css/fonts/GeosansLight.ttf
+File Name: C:\Users\access\Videos\agustin\www.cc-gen.us\css\fonts\GeosansLight.ttf
+Content Type: font/ttf
+
